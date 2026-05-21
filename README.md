@@ -29,7 +29,8 @@ This project uses AI-powered computer vision to detect objects live through your
 1️⃣ Clone the Repository
 
 ```bash
-git clone:
+git clone
+https://github.com/estanolmonica05-netizen/ApplicationApps
 
 📷 How It Works
 Open the app in your browser
